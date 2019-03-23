@@ -2,3 +2,5 @@
 /lib/
 /tmp/
 .icr_*.cr
+sentry*
+*.dwarf
