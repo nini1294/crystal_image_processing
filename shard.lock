@@ -1,0 +1,22 @@
+version: 1.0
+shards:
+  icr:
+    github: crystal-community/icr
+    commit: a0a5546e0e566891e5ce221313cb19995d0a643f
+
+  pcf-parser:
+    github: l3kn/pcf-parser
+    version: 0.1.0
+
+  stumpy_core:
+    github: stumpycr/stumpy_core
+    version: 1.8.3
+
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: 4.4.1
+
+  stumpy_utils:
+    github: stumpycr/stumpy_utils
+    version: 0.5.0
+

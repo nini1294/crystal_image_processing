@@ -1,0 +1,24 @@
+name: img_processing
+version: 0.1.0
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of 
+
+dependencies:
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: "~> 4.4.1"
+  stumpy_utils:
+    github: stumpycr/stumpy_utils
+  icr:
+    github: crystal-community/icr
+    branch: master
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
