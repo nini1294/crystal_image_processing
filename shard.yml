@@ -11,6 +11,8 @@ dependencies:
   stumpy_png:
     github: stumpycr/stumpy_png
     version: "~> 4.4.1"
+  stumpy_gif:
+    github: stumpycr/stumpy_gif
   stumpy_utils:
     github: stumpycr/stumpy_utils
   icr:

@@ -12,6 +12,10 @@ shards:
     github: stumpycr/stumpy_core
     version: 1.8.3
 
+  stumpy_gif:
+    github: stumpycr/stumpy_gif
+    version: 0.2.0
+
   stumpy_png:
     github: stumpycr/stumpy_png
     version: 4.4.1

@@ -1,6 +1,7 @@
 /.shards/
 /lib/
 /tmp/
+generated
 .icr_*.cr
 sentry*
 *.dwarf
