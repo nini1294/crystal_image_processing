@@ -21,6 +21,6 @@ shards:
     version: 4.4.1
 
   stumpy_utils:
-    github: stumpycr/stumpy_utils
-    version: 0.5.0
+    path: ../stumpy_utils
+    version: 0.6.0
 

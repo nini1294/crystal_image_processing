@@ -14,7 +14,8 @@ dependencies:
   stumpy_gif:
     github: stumpycr/stumpy_gif
   stumpy_utils:
-    github: stumpycr/stumpy_utils
+    # github: nin1294/stumpy_utils
+    path: ../stumpy_utils
   icr:
     github: crystal-community/icr
     branch: master
